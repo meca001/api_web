@@ -1,0 +1,3 @@
+favor de leer atentamente a dichas instrucciones, primero ingresar el nombre del pais en el archivo webApi.php recibiendo el parametro la variable $city_name,
+favor de indicar el nombre en ingles ya que la api donde se consume los datos esta preestablecida en ingles, tenemos una conexion local asi que tenemos que hacerlo
+local host y bueno es todo, espero que disfruten de la api
